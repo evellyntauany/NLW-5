@@ -1,7 +1,7 @@
 # NLW-5
 projeto Podcastr, um app para reprodução de episódios em áudio de podcast.
 
-![image](https://user-images.githubusercontent.com/50723431/208318630-3a5e5c80-407e-43c1-a924-32f75d671fa4.png)
+<img src="![image](https://user-images.githubusercontent.com/50723431/208318700-46385e0d-6cc2-4cc5-a04d-06841e1cb5e7.png)" width="10px"/>
 Como iniciar o projeto
 
 Clone o repositório
